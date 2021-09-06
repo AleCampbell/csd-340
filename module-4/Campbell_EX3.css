@@ -1,0 +1,61 @@
+/*
+Campbell, Alexander
+CSD-340
+Professor Sampson
+29AUG2021
+*/
+
+#page-title {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+#Book-list {
+    width: 45%;
+    float: left;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#things-I-learned {
+    width: 45%;
+    float: right;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300;
+    border: 1px dashed red;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+#upper-roman {
+    list-style-type: upper-roman;
+    /* 
+    I vote for the nasa space ships next
+    */
+}
+
+#footer {
+    margin-top: 60%;
+    width: 100%;
+}
+
+#Index {
+    float: right;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+#Index {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+
+#Index:hover {
+    text-decoration: underline;
+}
