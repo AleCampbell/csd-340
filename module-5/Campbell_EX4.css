@@ -1,0 +1,58 @@
+html {
+    background-color: rgba(250, 207, 252, 0.842);
+}
+
+#image-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto;
+}
+
+#page-title {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+
+.Image-title {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-style: italic;
+    font-size: .75em;
+    font-weight: 400;
+}
+
+h1, h3, figcaption {
+    color: rgba(185, 63, 8, 1);
+}
+
+.images{
+    border: 1px solid rgba(185, 63, 8, 1);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#Index {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-decoration: none;
+}
+
+#Index:hover {
+    text-decoration: underline;
+}
