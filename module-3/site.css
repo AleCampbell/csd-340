@@ -1,0 +1,37 @@
+/* 
+Campbell, Alexander
+CSD 340
+Professor Sampson
+29AUG2021
+*/
+
+
+body{
+    font-family: 'Oswald' , sans-serif; /*  Verdana, Arial; I could not find free options for these, so I did not add them.*/
+}
+#container{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+h1, h2, h3, h4 {
+    background-color: #99d5c6;
+    color: rgb(18, 39, 38);
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+a {
+    color: #084254;
+    text-decoration: none;
+}
+a:hover {
+    background-color: #86e2a5;
+    color: #390982;
+}
+
+a:visited {
+    color: #bcbf00;
+}
