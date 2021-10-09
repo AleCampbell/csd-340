@@ -5,7 +5,9 @@ Professor Sampson
 29AUG2021
 */
 
-
+html {
+    background-color: rgb(197, 226, 255);
+}
 body{
     font-family: 'Oswald' , sans-serif; /*  Verdana, Arial; I could not find free options for these, so I did not add them.*/
 }
